@@ -12,5 +12,8 @@ class MustahikSeeder extends Seeder
      *
      * @return void
      */
-   
+    public function run()
+    {
+        Mustahik::factory(20)->create();
+    }
 }
