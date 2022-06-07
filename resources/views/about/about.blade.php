@@ -30,6 +30,7 @@
           <p align="center"><a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
           
           <h3 align = "center"><b>CSS Framework<br></b></h3>
+          <p align="center">AdminLTE v3</p>
           <p align="center"><a href="https://adminlte.io/themes/v3/index3.html"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" height="200"></a></p>
           </p>
         </div>
